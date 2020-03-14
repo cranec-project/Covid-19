@@ -1,11 +1,9 @@
 # Covid-19
 COVID-19: Organized needs and potential solutions for.
 
-currently the "main" page is at [https://sites.google.com/view/cranec/home]
+currently the general information page is at [https://sites.google.com/view/cranec/home]
 
-below is a short synopsis.
-
-how we set up github:
+**how we set up github**:
 Items that need to be handled are saved as "issues", each issue can have multiple labels. you can comment on an existing issue and attach data files, images.
 
 "Projects" will be used to organize groups of issues
@@ -16,6 +14,7 @@ The "code" section will include basic introductory data files (like this one)
 
 Feel free to email to cranec.project@gmail.com
 
+**brief synopsis**:
 The problem:
 We sincerely hope that quarantine methods will stop the spread of disease  and that both treatment and vaccination development efforts will give results fast.
 
