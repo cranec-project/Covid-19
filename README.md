@@ -3,12 +3,17 @@ COVID-19: Organized needs and potential solutions for.
 
 currently the general information page is at [https://sites.google.com/view/cranec/home]
 
-**how we set up github**:
-Items that need to be handled are saved as "issues", each issue can have multiple labels. you can comment on an existing issue and attach data files, images.
+**how github is set up**:
+
+Items that need to be handled are saved as **"issues"**, each issue can have multiple labels. you can comment on an existing issue and attach data files, images.
+
+**"labels"** relate to technology, priority, subject matter and degree of clarity of the need.
+
+Each issue has an assignee. Failing that, there may be a **contact person** in the comments. Absent such a contact, use "cranec-project" or volunteer yourself!
 
 "Projects" will be used to organize groups of issues
 
-The use of the "wiki" is not finalized yet
+The use of the "wiki" is not finalized yet, feel free.
 
 The "code" section will include basic introductory data files (like this one)
 
